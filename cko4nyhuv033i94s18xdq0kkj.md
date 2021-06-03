@@ -1,8 +1,8 @@
 ## Introducing C# 10
 
-# C# 10
-
 > Here is a first for my blog: @[Rwing](@Rwing) offered to translate it to Chinese. So I took him up on it and you can read his translation on [his blog cnblogs.com](https://www.cnblogs.com/Rwing/p/introducing-csharp-10.html). I hope it says nice things about me. 😁
+
+# C# 10
 
 Earlier this week, I followed a [talk](https://www.youtube.com/channel/UCU0f_2rwIlvLC35GfGk_8kg) by [Mads Torgersen](https://twitter.com/MadsTorgersen) at [DotNet SouthWest](https://www.meetup.com/dotnetsouthwest/), he's the lead designer for the C# language at Microsoft. He outlined the cool new things C# 10 will contain. Let's take a quick look at some of the good things coming our way!
 
