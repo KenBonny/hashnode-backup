@@ -1,4 +1,12 @@
-## Using SpecFlow 3.0 with Rider
+---
+title: "Using SpecFlow 3.0 with Rider"
+datePublished: Mon Apr 22 2019 00:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckn0j45gn011ayes10gbbalni
+slug: using-specflow-3-0-with-rider
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1617381380272/pt7zVh9Ax.jpeg
+tags: csharp, unit-testing, unit-tests, ides, dotnetcore
+
+---
 
 > Checkout the [Rider plugin for SpecFlow](https://plugins.jetbrains.com/plugin/15957-specflow-for-rider) for an easier integration!
 
