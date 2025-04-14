@@ -1,0 +1,28 @@
+---
+title: "How free is free software"
+datePublished: Mon Jan 09 2017 00:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckn0iufel00yizfs19ovj5114
+slug: how-free-is-free-software
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618303696400/9vksFoWKK.png
+tags: general, oss
+
+---
+
+
+After watching Hadi Hariri's [Where's my free lunch?](https://vimeo.com/190977609) talk, I got to think about a number of things friends said about the cost of software. Free is everywhere these days, but secretly everything is paid for although not always with cash.
+
+A friend who owns a real estate agency is looking to update his site. It's a couple of years old, looks fugly on mobile devices and has an outdated look. I know there is a back-end system to add new houses and upload pictures, not sure if that is part of the update he's looking to do. He got a couple of estimates from companies to do the work and he was complaining to me that it was expensive. The average cost would be what a freelancer earns for a month's work. I'm not familiar with all the details, but I didn't think this was too expensive. The way my friend described it, it would cost him an arm and a leg. Did he really think a professional developer would take the job for a couple of bucks? Does he understand that that developer also has a life and expenses? Does he know such a job isn't done in an afternoon? It was all the more absurd because I know the guy owns multiple cars, one of those being a sports car, and a second house abroad.
+
+This isn't an isolated event. I see the opinion more and more that software should be free. A lot of times such a statement is uttered by a non-technical friend who has no idea what software development entails. Their parade argument is that [WhatsApp](https://www.whatsapp.com/), [Gmail](https://www.google.com/gmail/) and [OneDrive](https://onedrive.live.com/about/en-gb/) are free, but they forget those services are backed by giant corporations with their own agenda. They question why that awesome, convenient app has to cost less than a euro (or dollar, depending where you live). They ask me why I pay for services like [Todoist](https://todoist.com/) and [1Password](https://1password.com/) while I could be using free alternatives. I give them the same explanation each time: I think these services provide a superior experience than their free counterparts. Besides the developers pay checks, which is the largest cost, there are other costs. Even though hosting, storage and bandwidth are getting cheaper as we speak, it isn't free. I'm also backing projects that I think deserve my money by literally putting my money where my usage is.
+
+Now don't get me wrong, I love me some free software just like everybody else. I'm writing this on the free version of the awesome service of [WordPress](https://wordpress.com/), so I'd be a hypocrite to say otherwise. I'm saying that there is a cost for every service I use. For Todoist and 1Password I'm laying down cash, for Gmail or WhatsApp I pay with my data that the respective companies can inspect and I pay for WordPress by supplying them with traffic so they can display ads that gives them revenue. I'm currently fine with each form of payment, but I'm not under any impression that I get these services completely for free.
+
+Now I hear a lot of you think that building software can't possibly cost that much. Let me give you an example grounded in reality. An app on a smartphone can easily take up 3 months of development time. This is a full time 8 hours each work day, a total of 40 hours a week (this is the number of hours I work each week). So, 40 hours/week \* 12 weeks (4 weeks in a month, 3 months development time) makes for a whopping 480 man hours spend making this fictional app. I consider my time to be worth at least 50 euro per hour. This leads to 480 hours \* 50 euro/hour = 24.000 euro. Let's not forget I'm not making money yet, this is the cost to build the app.
+
+Now to monetize this, I would need to put it in the different app stores and charge money for it. If I would charge 1 euro for my app, I would need 24.000 people to buy my app... Wait that's not entirely correct. Each app store takes a 30% cut on each sale and I need to pay tax here in Belgium which is another 21%. Each time the app is purchased for 1 euro, I make 0.50 euro. At that rate, I would need 48.000 paying users just to break even, I would need more to make a profit. Let that number sink in.
+
+This is for a simple game that takes me 3 months to make. This means I have no back end to provide data to the app that would require hosting, bandwidth and data storage. I have no support costs such as bug fixing or customer questions. I have not counted the cost of having access to those stores: single cost of [14 euro for Windows Store](https://msdn.microsoft.com/en-us/windows/uwp/publish/account-types-locations-and-fees#developer-account-and-app-submission-markets), single cost of [25 USD for Google Play](https://support.google.com/googleplay/android-developer/answer/6112435?hl=en) and a yearly [99 USD for the iOS store](https://developer.apple.com/support/compare-memberships/). (Prices recorded at the time of writing.) I also haven't included the cost of the computer I would need or the developer tools I would need.
+
+Next time you wonder why that awesome app has to cost (more than) a euro or that service costs 20 or 30 euro a year, remember that a lot of work goes into providing it.
+
+P.S. A big thank you to [Troy Hunt](https://www.troyhunt.com/) for discussing this topic with me and making me describe my thoughts more clearly and to [Nico Vermeir](http://www.spikie.be) for pointing out how much writing an app for the different app stores would cost.
