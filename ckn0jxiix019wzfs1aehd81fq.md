@@ -1,4 +1,12 @@
-## Jimmy Bogards crossing the generics divide
+---
+title: "Jimmy Bogards crossing the generics divide"
+datePublished: Mon Mar 22 2021 13:45:09 GMT+0000 (Coordinated Universal Time)
+cuid: ckn0jxiix019wzfs1aehd81fq
+slug: jimmy-bogards-crossing-the-generics-divide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1617382825483/GGvDIYC4s.jpeg
+tags: programming, dependency-injection, dotnet, dotnetcore
+
+---
 
  [Jimmy Bogard](https://jimmybogard.com/) wrote a blog quite recently about how to  [inject generic components without using the generic part](https://jimmybogard.com/crossing-the-generics-divide/). As I have struggled with this in the past, I thought I’d create a little implementation to check out how his article solves the problem.
 
