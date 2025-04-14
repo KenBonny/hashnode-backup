@@ -1,4 +1,12 @@
-## A Simple SpecFlow 3 setup in Rider
+---
+title: "A Simple SpecFlow 3 setup in Rider"
+datePublished: Mon Dec 30 2019 00:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckn0iouzl00wwyes1b3k81k5s
+slug: a-simple-specflow-3-setup-in-rider
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1617795957997/cv6TYtxiy.png
+tags: unit-testing, ides, dotnetcore
+
+---
 
 > Checkout the [Rider plugin for SpecFlow](https://plugins.jetbrains.com/plugin/15957-specflow-for-rider) for an easier integration!
 
