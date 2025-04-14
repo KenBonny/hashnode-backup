@@ -1,4 +1,13 @@
-## Setting Fastmail DNS records for Cloudflare
+---
+title: "Setting Fastmail DNS records for Cloudflare"
+seoDescription: "Use an F# script to set the Fastmail DNS records in Cloudflare."
+datePublished: Mon Mar 28 2022 06:40:10 GMT+0000 (Coordinated Universal Time)
+cuid: cl1acc3wf001gyjnvaaq341tu
+slug: setting-fastmail-dns-records-for-cloudflare
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1647084289069/VwcaGmoyO.png
+tags: dns, cloudflare, email, dotnet, dotnetcore
+
+---
 
 Recently I switched from Googles Workspaces to [Fastmail](https://www.fastmail.com/) as my mail provider. Not only am I paying less, I'm getting more in return. I love the +notation alternative and that any, not-specified, email address gets dropped into my inbox. No more setting up info@mydomain.com, it just gets delivered to me. Setting all those DNS records is a bit time consuming, error prone and just annoying. So, scripting to the rescue.
 
