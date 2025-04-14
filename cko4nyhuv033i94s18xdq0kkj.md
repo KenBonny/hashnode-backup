@@ -1,4 +1,13 @@
-## Introducing C# 10
+---
+title: "Introducing C# 10"
+seoTitle: "Introducing csharp 10"
+datePublished: Fri Apr 30 2021 18:42:43 GMT+0000 (Coordinated Universal Time)
+cuid: cko4nyhuv033i94s18xdq0kkj
+slug: introducing-csharp-10
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619808066369/NL2jGN8Ih.png
+tags: csharp, dotnet, dotnetcore
+
+---
 
 > Here is a first for my blog: @[Rwing](@Rwing) offered to translate it to Chinese. So I took him up on it and you can read his translation on [his blog cnblogs.com](https://www.cnblogs.com/Rwing/p/introducing-csharp-10.html). I hope it says nice things about me. 😁
 
