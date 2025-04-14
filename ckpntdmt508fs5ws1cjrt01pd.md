@@ -1,4 +1,11 @@
-## Rediscovering implicit casting
+---
+title: "Rediscovering implicit casting"
+datePublished: Tue Jun 08 2021 09:01:47 GMT+0000 (Coordinated Universal Time)
+cuid: ckpntdmt508fs5ws1cjrt01pd
+slug: rediscovering-implicit-casting
+tags: csharp, dotnet, dotnetcore
+
+---
 
 > ### ⚠ WARNING ⚠
 > The information in this blog post is largely wrong. [Read more about it in this blog post](https://kenbonny.net/rediscovering-implicit-casting-1).
