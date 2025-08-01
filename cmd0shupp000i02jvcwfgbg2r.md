@@ -39,7 +39,7 @@ app.MapPost(
 .WithName("CreateDog");
 ```
 
-The endpoint retrieves a possibly existing dog and passes it, together with the create command, to the `CreateDog` handle function. The logic function decides how to handle the creation. Either I create the dog in the database and sent a *201 Created* response or I send a *301 Redirect* response when the dog already exists. Should the logic returns something else, I return a *500 Internal Server Error* response.
+The endpoint retrieves a possibly existing dog and passes it, together with the create command, to the `CreateDog` handle function. The logic function decides how to handle the creation. Either I create the dog in the database and send a *201 Created* response or I send a *301 Redirect* response when the dog already exists. Should the logic returns something else, I return a *500 Internal Server Error* response.
 
 Now that I have the infrastructure in place, let's look at the logic to create a dog in our system.
 
